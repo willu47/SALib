@@ -37,6 +37,7 @@ dependencies = [
   "matplotlib>=3.5",
   "pandas>=2.0",
   "multiprocess",
+  "POT"
 ]
 
 [project.optional-dependencies]
